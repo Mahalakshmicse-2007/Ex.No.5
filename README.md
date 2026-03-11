@@ -35,43 +35,78 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 # OUTPUT:
 Scenario 1: Creative Content Generation
+
 Naïve Prompt:
+
 Write something about artificial intelligence.
+
 Output:
+
 Artificial intelligence is widely used today. It helps people in many areas such as education, business, and healthcare.
+
 Basic Prompt: 
+
 Write a short creative story about an AI assistant in a hospital that helps doctors during emergencies.
+
 Output:
+
 In a busy hospital, an AI assistant named MediCore monitored patient data in real time and alerted doctors during emergencies, helping save lives.
 
 Scenario 2: Factual Explanation
+
 Naïve Prompt:
+
 What is cybersecurity?
+
 Output:
+
 Cybersecurity is about protecting computers and data from attacks.
+
 Basic Prompt: 
+
 Define cybersecurity and explain its importance with one real-world example.
+
 Output:
+
 Cybersecurity protects systems and data from digital threats. For example, antivirus software prevents malware attacks.
 
 Scenario 3: Concept Summarization
+
 Naïve Prompt:
+
 Explain electric vehicles.
+
 Output: 
+
 Electric vehicles run on electricity and are eco-friendly.
+
 Basic Prompt: 
+
 Summarize electric vehicles in 5–6 lines covering benefits and impact.
+
 Output:
+
 Electric vehicles use batteries instead of fuel, reduce pollution, lower operating costs, and support sustainable transportation.
+
 Scenario 4: Advice and Recommendations
+
 Naïve Prompt:
+
 Give health tips.
+
 Output:
+
 Health can be improved by eating well and exercising.
+
 Basic Prompt:
+
 As a health advisor, suggest three daily habits to maintain good health.
+
 Output:
+
 Balanced diet, regular exercise, and proper sleep help maintain good health.
+
 COMPARATIVE ANALYSIS:
-<img width="1056" height="656" alt="Screenshot 2026-03-11 090727" src="https://github.com/user-attachments/assets/a55561f2-7751-4406-bc74-58cfa2daab01" /> 
+
+<img width="656" height="656" alt="Screenshot 2026-03-11 090727" src="https://github.com/user-attachments/assets/a55561f2-7751-4406-bc74-58cfa2daab01" /> 
 # RESULT: The prompt for the above said problem executed successfully
