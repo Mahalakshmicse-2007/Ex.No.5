@@ -103,11 +103,8 @@ Basic Prompt:
 As a health advisor, suggest three daily habits to maintain good health.
 
 Output:
-
 Balanced diet, regular exercise, and proper sleep help maintain good health.
-
 COMPARATIVE ANALYSIS:
-
-<img width="656" height="656" alt="Screenshot 2026-03-11 090727" src="https://github.com/user-attachments/assets/a55561f2-7751-4406-bc74-58cfa2daab01" /> 
+<img width="456" height="456" alt="Screenshot 2026-03-11 090727" src="https://github.com/user-attachments/assets/a55561f2-7751-4406-bc74-58cfa2daab01" /> 
 
 # RESULT: The prompt for the above said problem executed successfully
