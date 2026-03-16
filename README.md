@@ -36,7 +36,7 @@ Summary of findings with insights on how to structure prompts for optimal result
 # OUTPUT:
 Scenario 1: Creative Content Generation
 
-Naïve Prompt:
+Basic Prompt:
 
 Write something about artificial intelligence.
 
@@ -44,7 +44,7 @@ Output:
 
 Artificial intelligence is widely used today. It helps people in many areas such as education, business, and healthcare.
 
-Basic Prompt: 
+Naïve Prompt: 
 
 Write a short creative story about an AI assistant in a hospital that helps doctors during emergencies.
 
@@ -54,7 +54,7 @@ In a busy hospital, an AI assistant named MediCore monitored patient data in rea
 
 Scenario 2: Factual Explanation
 
-Naïve Prompt:
+Basic Prompt:
 
 What is cybersecurity?
 
@@ -62,7 +62,7 @@ Output:
 
 Cybersecurity is about protecting computers and data from attacks.
 
-Basic Prompt: 
+Naïve Prompt: 
 
 Define cybersecurity and explain its importance with one real-world example.
 
@@ -72,7 +72,7 @@ Cybersecurity protects systems and data from digital threats. For example, antiv
 
 Scenario 3: Concept Summarization
 
-Naïve Prompt:
+Basic Prompt:
 
 Explain electric vehicles.
 
@@ -80,7 +80,7 @@ Output:
 
 Electric vehicles run on electricity and are eco-friendly.
 
-Basic Prompt: 
+Naïve Prompt: 
 
 Summarize electric vehicles in 5–6 lines covering benefits and impact.
 
@@ -90,7 +90,7 @@ Electric vehicles use batteries instead of fuel, reduce pollution, lower operati
 
 Scenario 4: Advice and Recommendations
 
-Naïve Prompt:
+Basic Prompt:
 
 Give health tips.
 
@@ -98,7 +98,7 @@ Output:
 
 Health can be improved by eating well and exercising.
 
-Basic Prompt:
+Naïve Prompt:
 
 As a health advisor, suggest three daily habits to maintain good health.
 
